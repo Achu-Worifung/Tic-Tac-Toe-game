@@ -50,13 +50,6 @@ This project is a simple implementation of the classic Tic-Tac-Toe game, enhance
 4. If all nine cells are filled and no player has won, the game ends in a draw.
 
 
-## Contributing
-
-Feel free to fork this repository and contribute to the project by:
-
-1. Reporting issues and suggesting features.
-2. Submitting pull requests for improvements.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -65,6 +58,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 - The Minimax algorithm was inspired by foundational AI concepts in game theory.
 - Special thanks to the open-source community for their valuable tutorials and insights.
+
+## Pictures
+![tic](https://github.com/user-attachments/assets/bbd24228-1b3a-493f-960a-69293572758c)
+![tic2](https://github.com/user-attachments/assets/d1df7c00-90bc-4b74-b7c8-8e36c1be3afa)
 
 ---
 
